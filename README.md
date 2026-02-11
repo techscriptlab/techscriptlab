@@ -1,6 +1,6 @@
 # Hi there, welcome to TechScript Lab! 👋
 
-### 🎓 The Official Project Documentation & Guidance Hub for Pune Students
+### 🎓 The Official Project Documentation & Guidance Hub for  Students
 
 > ⚠️ NOTE: This is a Demo & Service Account. 
 > To see the Lead Developer's raw coding portfolio and advanced projects, visit our Main Profile below.
