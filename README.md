@@ -11,7 +11,6 @@
 We aren't just writers; we are developers who understand your code. 
 Check out our Lead Developer's Personal GitHub:
 
-### 🚀 [@piyushkadam96k](https://github.com/piyushkadam96k) 
 *(AI, Computer Vision, Automation, & Python Expert)*
 
 ---
@@ -41,8 +40,6 @@ We help CS, IT, EnTC, and MBA students in Pimpri-Chinchwad & Pune complete their
 ## 📞 Contact Us (Urgent Help)
 
 Deadlines approaching? Don't panic.
-
-* Instagram: [@techscript_lab](https://www.instagram.com/techscript_lab)
 * Telegram: [@TechScriptHelp](https://t.me/iwillhelpyouatanytimee)
 
 ---
